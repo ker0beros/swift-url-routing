@@ -17,7 +17,7 @@ let package = Package(
     .package(url: "https://github.com/apple/swift-argument-parser", from: "0.5.0"),
     .package(url: "https://github.com/apple/swift-collections", from: "1.0.3"),
     .package(url: "https://github.com/apple/swift-docc-plugin", from: "1.0.0"),
-    .package(url: "https://github.com/pointfreeco/swift-parsing", branch: "main"),
+    .package(url: "https://github.com/ker0beros/swift-parsing", branch: "main"),
     .package(url: "https://github.com/pointfreeco/xctest-dynamic-overlay", branch: "main"),
     .package(url: "https://github.com/google/swift-benchmark", from: "0.1.1"),
   ],

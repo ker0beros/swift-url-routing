@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swift-case-paths",
       "state" : {
-        "revision" : "5da6989aae464f324eef5c5b52bdb7974725ab81",
-        "version" : "1.0.0"
+        "branch" : "main",
+        "revision" : "8d712376c99fc0267aa0e41fea732babe365270a"
       }
     },
     {
@@ -57,10 +57,19 @@
     {
       "identity" : "swift-parsing",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-parsing",
+      "location" : "https://github.com/ker0beros/swift-parsing",
       "state" : {
         "branch" : "main",
         "revision" : "f949081268f1f67f2cbc6e4f13a1494f6bcb0cd2"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax",
+      "state" : {
+        "revision" : "fa8f95c2d536d6620cc2f504ebe8a6167c9fc2dd",
+        "version" : "510.0.1"
       }
     },
     {
